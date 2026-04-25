@@ -9,7 +9,7 @@ import { BrowserRouter } from 'react-router-dom'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/* 2. 用 BrowserRouter 包裹 App */}
-    <BrowserRouter>
+    <BrowserRouter basename="/lab">
       <App />
     </BrowserRouter>
   </React.StrictMode>,

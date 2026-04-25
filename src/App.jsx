@@ -30,13 +30,12 @@ function App() {
     <div className="app">
       {/* 顶部黑色通栏 */}
       <div className="top-bar">
-        欢迎访问政协委员通履职服务平台 | 2026年4月23日 星期四
+      欢迎访问浙江省杭州市政协委员通履职服务平台 
       </div>
 
       {/* 头部红色Logo区 */}
       <header className="main-header">
-        <h1>政协委员通</h1>
-        <div>CPPCC Member Service Platform</div>
+        <h1>浙江省杭州市政协委员通</h1>
       </header>
 
       {/* 导航栏 */}
@@ -67,7 +66,7 @@ function App() {
 
       {/* 底部 */}
       <footer className="footer">
-        <p>© 2026 政协委员 版权所有</p>
+        <p>© 2026 浙江省杭州市政协委员 || 版权所有</p>
       </footer>
     </div>
   );
