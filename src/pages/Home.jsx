@@ -8,7 +8,6 @@ const Home = () => {
         <div style={{flex: 2}}>
           <h2>欢迎进入政协委员通</h2>
           <p>这里是委员履职、学习交流、服务群众的综合性数字化平台。</p>
-          <img src="https://via.placeholder.com/800x300?text=CPPCC+Banner" alt="Banner" style={{width: '100%', marginTop: '20px'}} />
         </div>
         <div style={{flex: 1, border: '1px solid #ddd', padding: '20px'}}>
           <h3>通知公告</h3>
